@@ -80,28 +80,7 @@ RQ6: Overall pipeline robustness
 
 ## Repository Structure
 
-camera-trap-edge-ai/
-│
-├── src/
-│ ├── preprocessing/
-│ │ ├── build_manifest.py
-│ │ ├── download_data.py
-│ │ ├── create_splits.py
-│ │ └── build_dataset.py
-│
-├── splits/
-│ ├── rq1_illumination.csv
-│ ├── rq2_location.csv
-│ ├── rq3_sequence.csv
-│ ├── rq4_class.csv
-│ ├── rq5_background.csv
-│ └── rq6_combined.csv
-│
-├── docs/
-│ └── figures/
-│
-├── requirements.txt
-└── README.md
+- see image_directory_struct.png
 
 
 ---
